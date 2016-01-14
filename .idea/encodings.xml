@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/PagesController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Liste.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/auth/register.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/default.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/membres/about_membre.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/membres/ajout_list.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/membres/ajout_tache.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/membres/default_membre.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/membres/espace_membre.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/membres/liste_tache.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/membres/modif_list.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/membres/tache_edition.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/about.blade.php" charset="UTF-8" />
+  </component>
+</project>
